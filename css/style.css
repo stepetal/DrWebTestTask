@@ -1,0 +1,32 @@
+
+#space-logo{
+	width: 45px;
+}
+
+.info_content{
+
+
+	padding: 0px 12px;
+	font-style: italic;
+	font-family: courier;
+	font-size: 16pt;
+	color: white;
+}
+
+.inner_text{
+	margin: 50px;
+	font-style: italic;
+	font-family: sans-serif;
+	font-size: 14pt;
+	color: white;
+}
+
+.right_side{
+	background-color: #999999;
+}
+
+.image_prop{
+	width: 300px;
+	height: 400px;
+	margin: 50px;
+}
